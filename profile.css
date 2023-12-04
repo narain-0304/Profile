@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://images-cdn.welcomesoftware.com/Zz05NmM1YjFjYjhlNDIxMWViODczZWQzYzBkNTFlNDU4ZA==);
+    background-size: 1100px;
+    margin-left: 20px;
+}
+.na
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about
+{
+    display: flex;
+    gap: 10px;
+    color:gray;
+    margin-left: 300px;
+
+}
+.ss
+{
+    padding: 10px;
+    
+}
+.my
+{
+   font-size: 25px;
+   padding-bottom: 15px;
+}
+.ab
+{
+    margin-left: 400px;
+}
+.space
+{
+    margin-left: 20px;
+
+}
+.na{
+    margin-left: 50px;
+}
+.name
+{
+    
+    color: black;
+    width: 280px;
+    
+.skill
+{
+    
+}
